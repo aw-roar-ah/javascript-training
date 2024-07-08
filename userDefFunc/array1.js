@@ -3,7 +3,7 @@ var places = new Array(4);
 places[0]="Bengaluru"
 places[1]="Pune"
 places[2]="Patna"
-places[3]="Rashmi"
+places[3]="Chd"
 
 console.log("Length: "+places.length)
 
