@@ -55,4 +55,15 @@ Arrow function is a function without name, without function keyword and without 
 *Anonymous Function*
 Function without a name
 
+## Difference between var, let and const
+
+- A file or a folder -> we call it module.
+- Al forLoop or condition -> Block
+
+> If you define any variable as VAR : scope of variable is throughout the module.
+> If you define a variable as Let: scope is limited to block only.
+>If you define a variable as const: it can't be modified anywhere and scope will be limited to block. 
+
+
+
 
