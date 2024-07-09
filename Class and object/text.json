@@ -1,0 +1,23 @@
+{
+	"url": "https://www.amazon.com",
+	"id": "login",
+	"name": "srinivas",
+	"userdetails": {
+		"un1": "Name1",
+		"upwd1": "Password1"
+	},
+	"login": [
+		{
+			"Name": "Rash1",
+			"pwd": "1234"
+		},
+		{
+			"Name": "Rash2",
+			"pwd": "12345"
+		},
+		{
+			"Name": "Rash1",
+			"pwd": "567"
+		}
+	]
+}
