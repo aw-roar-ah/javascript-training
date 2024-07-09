@@ -65,5 +65,16 @@ Function without a name
 >If you define a variable as const: it can't be modified anywhere and scope will be limited to block. 
 
 
+**Class and Objects**
+------------------------------------
+
+Class- Class is a collection of attributes and methods
+
+ ```python
+ In javascript, we can't have multiple constructor in a class. || In other languages, we have that.
+ ```
+
+'this' keyword refers to the current object
+
 
 
