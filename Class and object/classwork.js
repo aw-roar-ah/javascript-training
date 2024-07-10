@@ -28,9 +28,19 @@ console.log("...........................................................")
 //WAP to print only names having char 'a'
 
 for (i=0;i<names.length;i++)
+    var str = names[i]
     {
-       var str = names[i]
-      if(str.includes("a") || str.includes("A"))
-        console.log(str)
+        // for (j=0;j<names[i].length;j++)
+        
+            if(str.indexOf("a") === -1 ||str.indexOf("A")===-1)
+            {
+                console.log(str)
+                
+            }
+        
+       
+
+    //   if(str.includes("a") || str.includes("A"))
+    //     console.log(str)
     }
     
